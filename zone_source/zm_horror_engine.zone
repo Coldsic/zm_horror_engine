@@ -1,0 +1,18 @@
+>class,zm_mod_level
+>group,modtools
+
+xmodel,skybox_default_day
+material,luts_t7_default
+	
+// BSP
+col_map,maps/zm/zm_horror_engine.d3dbsp
+gfx_map,maps/zm/zm_horror_engine.d3dbsp
+
+// Audio
+sound,zm_horror_engine
+
+scriptparsetree,scripts/zm/zm_horror_engine.gsc
+scriptparsetree,scripts/zm/zm_horror_engine.csc
+
+	
+	
